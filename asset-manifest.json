@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/newrepo/static/css/main.bdabc941.chunk.css",
+    "main.css": "/newrepo/static/css/main.fbaf4ca0.chunk.css",
     "main.js": "/newrepo/static/js/main.8d534ccd.chunk.js",
     "main.js.map": "/newrepo/static/js/main.8d534ccd.chunk.js.map",
     "runtime-main.js": "/newrepo/static/js/runtime-main.b65635b5.js",
@@ -10,14 +10,14 @@
     "static/js/3.1a70098b.chunk.js": "/newrepo/static/js/3.1a70098b.chunk.js",
     "static/js/3.1a70098b.chunk.js.map": "/newrepo/static/js/3.1a70098b.chunk.js.map",
     "index.html": "/newrepo/index.html",
-    "static/css/main.bdabc941.chunk.css.map": "/newrepo/static/css/main.bdabc941.chunk.css.map",
+    "static/css/main.fbaf4ca0.chunk.css.map": "/newrepo/static/css/main.fbaf4ca0.chunk.css.map",
     "static/js/2.2aaf1cb7.chunk.js.LICENSE.txt": "/newrepo/static/js/2.2aaf1cb7.chunk.js.LICENSE.txt",
     "static/media/calla-lilly.e7e2acf1.jpg": "/newrepo/static/media/calla-lilly.e7e2acf1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b65635b5.js",
     "static/js/2.2aaf1cb7.chunk.js",
-    "static/css/main.bdabc941.chunk.css",
+    "static/css/main.fbaf4ca0.chunk.css",
     "static/js/main.8d534ccd.chunk.js"
   ]
 }
